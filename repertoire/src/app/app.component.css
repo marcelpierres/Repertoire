@@ -7,7 +7,7 @@
 	width:500px;
 	height:500px;
     left:-webkit-calc( 50% - 250px );
-    top:20%;
+    top:15%;
 	position:absolute;
 	border-radius:5px;
 
@@ -60,4 +60,8 @@ p{
 
 .images{
     display: inline-block;
+    padding: 20px;
+    margin-top: 80px;
 }
+
+

@@ -8,8 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
 
-  goCNN() {
-    window.location.href = 'http://www.cnn.com/';
-}
 
 }
