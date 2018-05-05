@@ -1,0 +1,35 @@
+
+.content{  
+    margin: auto;
+    text-align: center;
+  }
+
+
+h1,h2,h3,h4,a,p{   
+	color:black;
+    font-weight:100;	
+}
+
+
+#name{
+    letter-spacing: 3px;
+}
+
+
+#status{ 
+    letter-spacing: 4px;
+}
+
+
+p{ 
+  margin: 20px; 
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #444;   
+}
+
+.images{
+    display: inline-block;
+    padding: 20px;
+    margin-top: 80px;
+}
