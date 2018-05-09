@@ -1,6 +1,4 @@
 
-
-
 .box{
     background: rgba(255, 255, 255, 0.726);
    
@@ -8,7 +6,7 @@
 	height:500px;
     left:-webkit-calc( 50% - 250px );
     top:25%;
-	position:absolute;
+	position:fixed;
 	border-radius:5px;
 
 	border:2px solid rgba(19, 16, 16, 0.466);
