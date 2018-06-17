@@ -20,6 +20,9 @@ h1,h2,h3,h4,a,p{
     letter-spacing: 4px;
 }
 
+#email{
+    margin-top: 40px;
+}
 
 p{ 
   margin: 20px; 
@@ -31,5 +34,5 @@ p{
 .images{
     display: inline-block;
     padding: 20px;
-    margin-top: 20px;
+    margin-top: 0px;
 }

@@ -19,8 +19,8 @@ import { ContactMeComponent } from './components/contact-me/contact-me.component
     BrowserModule,
     RouterModule.forRoot([
       {path: 'home', component: HomeComponent},
-      { path: '',   redirectTo: '/home', pathMatch: 'full' },
-      {path: 'contact-me', component: ContactMeComponent}
+      { path: '',   redirectTo: '/home', pathMatch: 'full' }// ,
+      // {path: 'contact-me', component: ContactMeComponent}
     ])
   ],
   providers: [],
